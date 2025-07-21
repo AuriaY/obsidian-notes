@@ -1,4 +1,5 @@
 .obsidian/
 .trash/
+*.exe
 *.log
-Obsidian.exe
+.DS_Store
