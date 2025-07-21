@@ -5,7 +5,7 @@ cd /d "C:\Users\Auria_Y\AppData\Local\Programs\obsidian"
 git pull origin main
 
 :: 添加所有变更
-git add .
+git add  .
 
 :: 提交变更（含时间戳）
 git commit -m "手动同步: %date% %time%"
